@@ -1,7 +1,6 @@
 # Blinkit Grocery Sales Analytics Dashboard
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Analytics-Data_Visualization-blue?style=for-the-badge)
+
 
 An interactive, end-to-end data analytics dashboard built entirely in Microsoft Excel. This project analyzes retail sales performance for Blinkit (India's last-minute app), uncovering key insights into customer preferences, outlet performance, and product optimization.
 
